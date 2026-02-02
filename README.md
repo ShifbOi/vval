@@ -182,7 +182,7 @@
     <div class="hint" id="hint">“Issh🤭” Bhul mat jana 😈</div>
 
     <section class="result" id="result">
-      <h2>You decide what works.🦋</h2>
+      <h2>hehe you decide what works.🦋</h2>
       <img
         class="fireworks"
         src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif"
