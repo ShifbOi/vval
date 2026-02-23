@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-  <title>Will you go out on a Datte?</title>
+  <title>Tities bro?</title>
 
   <!-- Confetti library -->
   <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.3/dist/confetti.browser.min.js"></script>
@@ -171,7 +171,7 @@
             fill="#ff7aa2"/>
     </svg>
 
-    <h1>Zoe ji will you go out on a Date?</h1>
+    <h1>Zoe ji please?</h1>
 
     <section class="button-zone" id="zone">
       <button id="yesBtn">Yes</button>
@@ -182,7 +182,7 @@
     <div class="hint" id="hint">“Issh🤭” Bhul mat jana 😈</div>
 
     <section class="result" id="result">
-      <h2>hehe you decide what works.🦋</h2>
+      <h2>ass bhi.🦋</h2>
       <img
         class="fireworks"
         src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif"
