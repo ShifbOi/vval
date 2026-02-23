@@ -171,7 +171,7 @@
             fill="#ff7aa2"/>
     </svg>
 
-    <h1>Zoe ji please?</h1>
+    <h1>Zoe ji Tities please?</h1>
 
     <section class="button-zone" id="zone">
       <button id="yesBtn">Yes</button>
