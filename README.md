@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-  <title> Photo Ji ?</title>
+  <title> Apka Photo Ji ?</title>
 
   <!-- Confetti library -->
   <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.3/dist/confetti.browser.min.js"></script>
@@ -171,7 +171,7 @@
             fill="#ff7aa2"/>
     </svg>
 
-    <h1>Zoe ji Tities please?</h1>
+    <h1>ZUNNI JI Photo please? </h1>
 
     <section class="button-zone" id="zone">
       <button id="yesBtn">Yes</button>
@@ -179,12 +179,12 @@
     </section>
 
     <!-- HINT -->
-    <div class="hint" id="hint">“Issh🤭” Bhul mat jana 😈</div>
+    <div class="hint" id="hint"> “Issh🤭” Thenks ..................😁</div>
 
     <section class="result" id="result">
-      <h2>ass bhi.🦋</h2>
+      <h2> Munchkin. 🦋</h2>
       <img
-        class="fireworks"
+        class="Miracle"
         src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif"
         alt="Fireworks"
       />
